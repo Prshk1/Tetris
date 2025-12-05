@@ -1,0 +1,5 @@
+{
+  "name": "Tetris",
+  "description": "A modern, responsive Tetris game with customizable hotkeys and AI-generated themes.",
+  "requestFramePermissions": []
+}
